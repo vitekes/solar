@@ -1,3 +1,4 @@
 {
+  "modules": "/path/to/folder",
   "version": "3.0.0"
 }
